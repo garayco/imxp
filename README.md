@@ -105,15 +105,6 @@ Created by:
 - Felipe Garaycochea Lozada
 - David Dueñas Gaviria
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Project Timeline
-
-- **Created**: September 26, 2018
-- **Last Updated**: November 25, 2020
-- **Latest Push**: May 10, 2019
 
 ## Learn More
 
